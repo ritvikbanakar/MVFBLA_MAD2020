@@ -1,0 +1,6 @@
+module Pods_FblaSignUpPage {
+  umbrella header "Pods-FblaSignUpPage-umbrella.h"
+
+  export *
+  module * { export * }
+}
